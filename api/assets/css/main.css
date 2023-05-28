@@ -362,7 +362,7 @@ width: 100%;
 .article-data{
     display: flex;
     align-items: center;
-    gap: var(--gap);
+    gap: 1rem;
     font-size: var(--font-size-xsm);
     margin-bottom: 1rem;
 }
@@ -371,7 +371,7 @@ width: 100%;
     width: .5rem;
     height: .5rem;
     background-color: var(--light-color-alt);
-    transform: rotate(45deg);
+    
 }
 
 .title{
